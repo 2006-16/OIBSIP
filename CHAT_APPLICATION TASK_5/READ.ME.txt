@@ -1,0 +1,38 @@
+ Chat Application
+
+ Objective
+A simple real-time chat application developed using Python.
+
+ Technologies Used
+- Python
+- Socket Programming
+- Threading
+
+Features
+- Server accepts client connections
+- Two clients can connect to the server
+- Real-time message exchange
+- Messages display the sender name
+- Disconnect notification
+
+Files
+- server.py - Runs the chat server
+- client.py - Connects users to the server
+- README.md - Project documentation
+
+How to Run
+1. Run `server.py` first.
+2. Run `client.py`.
+3. Enter the first user's name.
+4. Run `client.py` again for the second user.
+5. Enter the second user's name.
+6. Both users can send and receive messages.
+
+## Example
+
+Harini: Hello
+
+Bob: Hi Harini
+
+## Security Note
+This is a beginner-level local chat application. Messages are not encrypted and the application is intended for learning purposes.
