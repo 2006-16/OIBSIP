@@ -1,0 +1,50 @@
+RANDOM PASSWORD GENERATOR
+
+ Project Description
+
+This project is a simple Random Password Generator developed using Python.
+
+The program asks the user to enter the required password length and generates a random password using letters and numbers.
+
+ Features
+
+- Takes password length as input
+- Generates a random password
+- Uses uppercase and lowercase letters
+- Uses numbers
+- Easy to use
+- Beginner-friendly Python program
+
+ Technologies Used
+
+- Python
+- Python IDLE
+
+ How to Run
+
+1. Open `password_generator.py` using Python IDLE.
+2. Run the program.
+3. Enter the required password length.
+4. The program generates and displays a random password.
+
+Sample Output
+
+### Example 1
+
+Input:
+
+Password length: 8
+
+Output:
+
+Generated Password: aK7mP2xQ
+
+### Example 2
+
+Input:
+
+Password length: 10
+
+Output:
+
+Generated Password: hG4kP9mX2a
